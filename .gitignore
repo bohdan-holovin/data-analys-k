@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# IDE
+.idea/
+*.iml
+
+# Claude
+.claude/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.xlsx
+
+# OS
+Thumbs.db
+.DS_Store
